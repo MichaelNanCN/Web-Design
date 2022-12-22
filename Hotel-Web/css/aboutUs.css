@@ -1,0 +1,12 @@
+#left{
+    width: 30%;
+}
+.aboutus{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#mid{
+    width: 50%;
+}
